@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .won_info-metaboxes fieldset {
+ 	min-height: 32px;
+ }
+ span.description {
+ 	display: block;
+ 	width: 100%;
+ 	font-size: 87.5%;
+ 	font-style: italic;
+ }

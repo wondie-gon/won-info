@@ -1,0 +1,69 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ /**
+ * Contact form style
+ */
+ .frm-contact-header {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+#won-info-contactform {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.input-error-msg {
+	display: block;
+	color: #000000;
+	background-color: #ffbc42;
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
+	padding: 0.25rem 0.5rem;
+	margin-top: 0.25rem;
+	-moz-border-radius: 0.65rem;
+	-webkit-border-radius: 0.65rem;
+	border-radius: 0.65rem;
+	-webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1), 0 2px 8px 0 rgba(0,0,0,0.1);
+	-moz-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1), 0 2px 8px 0 rgba(0,0,0,0.1);
+  	box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1), 0 2px 8px 0 rgba(0,0,0,0.1);
+}
+.form-control-msg {
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
+	padding: 0.25rem 0.5rem;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	-moz-border-radius: 0.65rem;
+	-webkit-border-radius: 0.65rem;
+	border-radius: 0.65rem;
+	-webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1), 0 2px 8px 0 rgba(0,0,0,0.1);
+	-moz-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1), 0 2px 8px 0 rgba(0,0,0,0.1);
+  	box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1), 0 2px 8px 0 rgba(0,0,0,0.1);
+}
+.js-form-submission, 
+.js-form-success, 
+.js-form-error {
+	display: none;
+}
+.js-form-submission {
+	color: #ffffff;
+	background-color: #0496ff;
+}
+.js-form-success {
+	color: #ffffff;
+	background-color: #49C73E;
+}
+.js-form-error {
+	color: #ffffff;
+	background-color: #d81159;
+}
+.js-form-submission.js-form-feedback, 
+.js-form-success.js-form-feedback, 
+.js-form-error.js-form-feedback {
+	display: block;
+}
