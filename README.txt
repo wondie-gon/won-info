@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Won Info ===
 Contributors: wondwossen
 Donate link: wonwosbr
 Tags: contact, contact form, contact address, address widget, contact address
