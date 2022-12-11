@@ -164,7 +164,7 @@ class Won_Info_Public {
 	// Registering shortcode
 	public function won_info_contact_form_add_shortcode() {
 		// Register contact form function to shortcode tag
-		add_shortcode( 'won_info_contact_form', array( $this, 'won_info_display_contact_form' ), 10, 2 );
+		add_shortcode( 'won_info_contact_form', array( $this, 'won_info_display_contact_form' ) );
 	}
 
 	// Shortcode for contact form

@@ -1,12 +1,12 @@
 ## Won Info
-Contributors: wondwossen
-Donate link: wonwosbr
-Tags: contact, contact form, contact address, address widget, contact address
-Requires at least: 5.0
-Tested up to: 6.0
-Stable tag: 5.6
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: wondwossen
+- Donate link: wonwosbr
+- Tags: contact, contact form, contact address, address widget, contact address
+- Requires at least: 5.0
+- Tested up to: 6.0
+- Stable tag: 5.6
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A simple plugin that adds contact form, and contact address widgets. 
 
